@@ -3,7 +3,7 @@
 My name is **Gianmatteo Palmieri**
 
 I'm a 22 years old **computer engineering** student,<br>
-**linux** and **cybersecurity** ethusiast, **free and open source software** supporter.
+**linux** and **cybersecurity** enthusiast, **free and open source software** supporter.
 
 Website: **[gian.im](https://gian.im)**
 
