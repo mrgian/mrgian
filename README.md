@@ -2,8 +2,14 @@
 
 My name is **Gianmatteo Palmieri**
 
-I'm a 22 years old **computer engineering** student,<br>
-**linux** and **cybersecurity** enthusiast, **free and open source software** supporter.
+- 📅 **23** years old
+- 🖥️ **Computer Engineering** student
+- 🐧 **Linux** user since I was a kid
+- 🛡️ **Cybersecurity** enthusiast
+- 🌐 **Free and Open Source software** supporter
+- 🦀 **Rust** developer
+
+I'm currently working on **[Felix](https://github.com/mrgian/felix)**, my own operating system written completely from scratch in Rust.
 
 Website: **[gian.im](https://gian.im)**
 
